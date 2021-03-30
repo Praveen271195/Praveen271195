@@ -26,7 +26,7 @@ I'm Praveen Chandrasekaran from India and I am an aspiring Data Scientist with 3
 
 ## Long Term Vision
 
-- 🎯 To serve people in decison making for living
+- 🎯 To serve people in decison making by an application
 
 ## Summary
 
