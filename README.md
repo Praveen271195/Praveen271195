@@ -24,7 +24,7 @@ I'm Praveen Chandrasekaran from India and I am an aspiring Data Scientist with 3
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Praveen271195)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Praveen Chandrasekaran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chandrasekaran_praveen/)  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Praveen271195)
+<align="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Praveen271195)
 
  Dyslexics' coding is better than their reading 
 
