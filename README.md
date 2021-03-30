@@ -10,8 +10,8 @@ I'm Praveen Chandrasekaran from India and I am an aspiring Data Scientist with 3
 ## Professional Domain Experience
 
 - 💲 Cost Engineering
+- - 📊 Cost Data Analysis & Prediction
 - 🚛 Automobile Project Management
-- 📊 Cost Data Analysis & Prediction
 
 ## Software Skills
 
