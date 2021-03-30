@@ -1,13 +1,22 @@
+![Data Science and Engineering](https://github.com/Praveen271195/Praveen271195/blob/main/My%20banner.PNG)
+
 <h1 align="center">வணக்கம் 🙏</h1>
 <h3 align="center">Indian | Engineer | Data Science Enthusiast</h3>
 
-### Praveen Chandrasekaran
-#### Data Science and Engineering
-![Data Science and Engineering](https://github.com/Praveen271195/Praveen271195/blob/main/My%20banner.PNG)
-
 I'm Praveen Chandrasekaran from India, and I am an aspiring Data Scientist with 3 years of experience dealing with cost data and cost reduction projects in Daimler India Commercial vehicles an Automobile Manufacturing company. You can check out my Linkedin at https://www.linkedin.com/in/praveen-chandrasekaran-9620ab165/
 
-Skills: Python / Java / HTML / CSS / Cost Engineering / Project Management
+## Professional Domain Experience
+
+💲 Cost Engineering
+🚛 Automobile Project Management
+📊 Cost Data Analysis & Prediction
+
+## Skills and Experience 
+
+🐍 Python 
+☕ Java
+#️⃣ HTML 
+💻 CSS
 
 - 🔭 I’m currently working on problems that could be solved with Computer Vision 
 - ⚡ Fun fact: Dyslexics' coding is better than their reading :P 
