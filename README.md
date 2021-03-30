@@ -11,7 +11,7 @@ I'm Praveen Chandrasekaran from India, and I am an aspiring Data Scientist with 
 🚛 Automobile Project Management
 📊 Cost Data Analysis & Prediction
 
-## Skills and Experience 
+## Software Skills
 
 🐍 Python 
 ☕ Java
@@ -19,11 +19,11 @@ I'm Praveen Chandrasekaran from India, and I am an aspiring Data Scientist with 
 💻 CSS
 
 - 🔭 I’m currently working on problems that could be solved with Computer Vision 
-- ⚡ Fun fact: Dyslexics' coding is better than their reading :P 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Praveen271195)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Praveen Chandrasekaran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chandrasekaran_praveen/)  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Praveen271195)
+
+- ⚡ Fun fact: Dyslexics' coding is better than their reading :P 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen271195&label=Profile%20views&color=0e75b6&style=flat" alt="praveen271195" /> </p>
