@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Praveen Chandrasekaran from India and I'm an aspiring Data Scientist with 3 years of professional experience, crunching cost data worth 4 Billion Euros and also have delt with cost reduction projects at Daimler India Commercial vehicles, a German Automobile Manufacturing company in India. I am currently volunteering at an Indian startup named Luxgenic Info Tech as a Data Analyst. You can check out my Linkedin at[<img src='https://github.com/Praveen271195/Praveen271195/blob/main/linkedIn_logo.png' alt='linkedin' height='45'>](https://www.linkedin.com/in/praveen-chandrasekaran-9620ab165/)
+I'm Praveen Chandrasekaran from India and I'm an aspiring Data Scientist with 3 years of professional experience, crunching cost data worth 4 Billion Euros and also have delt with cost reduction projects at Daimler India Commercial vehicles, a German Automobile Manufacturing company in India. I am currently volunteering at an Indian startup named Luxgenic Info Tech as a Data Analyst. You can check out my Linkedin at https://www.linkedin.com/in/praveen-chandrasekaran-9620ab165/
 
 ## Professional Domain Experience
 
