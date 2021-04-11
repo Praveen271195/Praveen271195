@@ -36,7 +36,7 @@ I'm Praveen Chandrasekaran from India and I'm an aspiring Data Scientist with 3 
 
 Dyslexics' coding is better than their reading
 
-## Contacts
+### Contacts
 
 [<img src='https://github.com/Praveen271195/Praveen271195/blob/main/linkedIn_logo.png' alt='linkedin' height='45'>](https://www.linkedin.com/in/praveen-chandrasekaran-9620ab165/)
 [<img src='https://github.com/Praveen271195/Praveen271195/blob/main/instagram-icon.svg' alt='instagram' height='35'>](https://www.instagram.com/chandrasekaran_praveen/) 
