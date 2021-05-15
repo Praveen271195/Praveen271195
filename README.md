@@ -14,7 +14,7 @@ I'm Praveen Chandrasekaran from India and I'm an aspiring Data Scientist with 3 
 
 ## Software Skills
 
-- 🐍 Python 
+- 🐍 Python - Matplotlib, Seaborn, Dash, Numpy, Pandas, Sklearn, Scipy 
 - ☕ Java
 - #️⃣ HTML 
 - 💻 CSS
